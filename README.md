@@ -5,7 +5,7 @@
 - Miguel Angel Vega Alonso - 20142020
 - Wilmer Ricardo PAchón López - 20142020056
 - Andres Felipe Gomez Salinas - 20142020
-* Hasta
+- Hasta
 - Johan
 
 ## Problemática
