@@ -108,12 +108,11 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 ## Organigrama
 <img src="https://user-images.githubusercontent.com/12010536/41826196-481e8a42-77ed-11e8-86d7-66e24ddcaa2c.png" width="90%"></img> 
 ## Estamación
-_El proceso de estimación en costos y tiempo, se realizo a traves de una plantilla donde se establece las horas laborales diarias, en conjunto con los sueldos de cada uno de los cargos del proyecto a desarrollar, y que por medio de una estimación por puntos de funciones obtenemos la cantidad de horas totales del proyecto con su costo final.[estimaciones.xls](Gestion-Vehicular/estimaciones.xls)._
-
+_El proceso de estimación en costos y tiempo, se realizo a traves de una plantilla donde se establece las horas laborales diarias, en conjunto con los sueldos de cada uno de los cargos del proyecto a desarrollar, y que por medio de una estimación por puntos de funciones obtenemos la cantidad de horas totales del proyecto con su costo final._
 ```
-Revisar el archivo estimaciones.xls
+Revisar el archivo:
 ```
-
+**[estimaciones.xls](Gestion-Vehicular/estimaciones.xls)**
 
 
 
