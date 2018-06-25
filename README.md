@@ -67,24 +67,24 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 
 ## EDP
 * Módulo Administrador
- * Registro usuarios y clientes
+  * Registro usuarios y clientes
 * Módulo gestión de información de Cliente
- * Datos personales
- * Vehículos asociados
+  * Datos personales
+  * Vehículos asociados
 * Módulo gestión de información de vehículo
- * Datos del vehículo (placas, tipo, marca, modelo)
- * Kilometraje
- * Daños parte exterior como rayones o abolladura
- * Daños en interiores
- * Inventario de objetos en vehículos
- * Observaciones
+  * Datos del vehículo (placas, tipo, marca, modelo)
+  * Kilometraje
+  * Daños parte exterior como rayones o abolladura
+  * Daños en interiores
+  * Inventario de objetos en vehículos
+  * Observaciones
 * Módulo de ingreso consulta usuarios
- * Estado del vehículo
- * Repuestos necesarios
+  * Estado del vehículo
+  * Repuestos necesarios
 * Módulo Facturación
- * Costos (repuestos, mano de obra, impuestos)
+  * Costos (repuestos, mano de obra, impuestos)
 * Módulo de ingreso estado del vehículo
- * Estado del vehículo (Ingresado, en mantenimiento, en espera de repuestos, Listo, Cliente no autoriza-no reparado)
+  * Estado del vehículo (Ingresado, en mantenimiento, en espera de repuestos, Listo, Cliente no autoriza-no reparado)
 
 
 
