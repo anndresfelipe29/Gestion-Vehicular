@@ -107,7 +107,7 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 ## WBS
 <img src="https://user-images.githubusercontent.com/12010536/41827180-b13bbd3c-77f3-11e8-9e48-52d2c1d6e098.jpg" width="90%"></img> 
 ## Organigrama
-<img src="https://user-images.githubusercontent.com/12010536/41826196-481e8a42-77ed-11e8-86d7-66e24ddcaa2c.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/12010536/41827752-cecdfa42-77f6-11e8-9c86-7114dcf989aa.png" width="90%"></img> 
 ## Estamación
 _El proceso de estimación en costos y tiempo, se realizo a través de una plantilla donde se establece las horas laborales diarias, en conjunto con los sueldos de cada uno de los cargos del proyecto a desarrollar; y que por medio de una estimación por puntos de función obtenemos la cantidad de horas totales del proyecto con su costo final._
 ```
