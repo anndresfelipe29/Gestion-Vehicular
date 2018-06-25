@@ -51,5 +51,43 @@ _El sistema recibirá la siguiente información para ser parte de las variables 
 * Información del diagnóstico técnico, respuesta a la problemática planteada.
 * Nombre y costo de cada servicio y repuesto suministrado al vehículo.
 
+## Criterios de Exito
+* El sistema debe permitir la gestión de cuentas de usuario con diferentes roles.
+* La información estará disponible de forma clara para todos los usuarios y actualizada.
+* La arquitectura del sistema debe permitir el crecimiento al ritmo de que lo haga el establecimiento.
+* El sistema garantiza la protección de los datos y asegurara que la información, solo sea accedida por el usuario al que corresponde.
+
+## Objetivos
+* Gestionar la información del vehículo que se encuentre en mantenimiento en el taller, permitiendo visualizar el estado en que se encuentra el vehículo desde el momento de ingreso, hasta el momento en que sale del taller, detallando los procedimientos realizados sobre este, como puede ser el caso de reparaciones o  repuestos.
+* Manejar un histórico de clientes con sus respectivos vehículos, donde se resalte todos las mejoras, y partes implementadas en dichos vehículos.
+* Gestionar el inventario de partes y repuestos del taller, cotejando insumos con los implementados en las reparaciones de los distintos vehículos, manejando un historial de proveedores anexo a dichos repuestos.
+
+## Alcance
+_Diseño, migración de datos e implementación de sistema de gestión de información vehicular para taller de mantenimiento, que permita la creación de cuentas para usuarios del taller (mecanicos, recepción, despacho) y para clientes, ingreso de datos del cliente, ingreso de datos principales de los vehículos asociados a cada cliente, inventario del vehículo ingresado con observaciones de novedad, módulos de actualización de estado por parte del mecánico encargado, ingreso de repuestos usados y agregados al costo del mantenimiento, ingreso del costo de la mano de obra y acceso a consulta por parte de los clientes en una plataforma web para tener información actualizada del estado en curso de los vehículos._
+
+## EDP
+* Módulo Administrador
+**Registro usuarios y clientes
+Módulo gestión de información de Cliente
+Datos personales
+Vehículos asociados
+Módulo gestión de información de vehículo
+Datos del vehículo (placas, tipo, marca, modelo)
+Kilometraje
+Daños parte exterior como rayones o abolladura
+Daños en interiores
+Inventario de objetos en vehículos
+Observaciones
+Módulo de ingreso consulta usuarios
+Estado del vehículo
+Repuestos necesarios
+Módulo Facturación
+Costos (repuestos, mano de obra, impuestos)
+Módulo de ingreso estado del vehículo
+Estado del vehículo (Ingresado, en mantenimiento, en espera de repuestos, Listo, Cliente no autoriza-no reparado)
+
+
+
+
 
 
