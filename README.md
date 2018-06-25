@@ -28,3 +28,23 @@ _Los fallos en el manejo de la información en cada una de las etapas anteriorme
 * Falta de claridad en qué tipo de reparaciones se hicieron en ocasiones anteriores y duración de las mismas
 
 _Debido a estos y otros inconvenientes con el manejo de la información, se puede generar reducción en las ganancias y desacuerdos con los clientes por no existir siempre una constancia en la cual se estipulan todos los términos y condiciones de los servicios suministrados._
+
+## Descripción
+_El sistema de gestión de información contará con las siguientes módulos característicos:_
+* Módulo de gestión del vehículo: Permite al administrador llevar un control del proceso llevado a cabo sobre los vehículos, a los mecánicos afectar los estados que pueden tener los vehículos y a los clientes visualizar dichos estados con el fin de poder saber en qué situación se encuentra el vehículo.
+* Módulo de gestión de clientes: Permite tener un control por parte de los administradores sobre los clientes que han atendido en el taller, llevando un histórico por medio de un registro que realizan los clientes al momento de ingresar al taller.
+* Módulo de gestión de inventarios
+* Todo lo anterior será ofrecido en un ambiente web.
+El sistema de gestión debe suministrar la siguiente información:
+* Diagnóstico inicial, brindado por el receptor del vehículo.
+* Claridad en costos de mano de obra y repuestos, además de esto, el usuario conocerá las piezas que serán reemplazadas, su correspondiente garantía, si lo tiene. 
+* Estado del vehículo, esto quiere decir, a la espera de servicio, en tratamiento, servicio finalizado.
+* Estados de alerta en caso de que se genere alguna.
+_El sistema recibirá la siguiente información para ser parte de las variables del entorno:_
+* Información sobre la información básica del vehículo como: marca, modelo, descripción del estado general y observaciones requeridas para su ingreso.
+* Descripción de la problemática descrita por el usuario para ser tratada.
+* Información del diagnóstico técnico, respuesta a la problemática planteada.
+* Nombre y costo de cada servicio y repuesto suministrado al vehículo.
+
+
+
