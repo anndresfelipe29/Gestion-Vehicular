@@ -113,7 +113,7 @@ _El proceso de estimación en costos y tiempo, se realizo a través de una plant
 ```
 Revisar el archivo:
 ```
-**[--> estimaciones.xls](anndresfelipe29/Gestion-Vehicular/estimaciones.xls)**
+**[--> estimaciones.xls](https://github.com/anndresfelipe29/Gestion-Vehicular/blob/master/estimaciones.xls)**
 
 
 
