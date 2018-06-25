@@ -11,14 +11,12 @@
 ## Problemática
 _El problema que se abordará en este proyecto está sujeto a los distintos talleres y concesionarios de vehículos. Se ha identificado que en estos establecimientos existen diferentes falencias  en la gestión de la información del vehículo en todas las etapas del proceso que  a continuación dividiremos en:_
 ```
-Da un ejemplo
-```
 * Ingreso del vehículo al taller y/o concesionario
 * Diagnóstico, 
 * Proceso de reparación. 
 * Proceso de pago
 * Finalización del proceso con creación de un historial para el vehículo, como base para futuros mantenimientos.
-
+```
 _Los fallos en el manejo de la información en cada una de las etapas anteriormente definidas pueden derivar en malos entendidos con el usuario como:_
 
 * Falta de información inicial sobre el vehículo, en cuanto a  fallas o daños en el vehículo al momento del ingreso
