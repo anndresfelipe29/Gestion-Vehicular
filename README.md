@@ -107,13 +107,17 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 ## WBS
 <img src="https://user-images.githubusercontent.com/12010536/41827180-b13bbd3c-77f3-11e8-9e48-52d2c1d6e098.jpg" width="90%"></img> 
 ## Organigrama
+Para la gestión organizacional de este proyecto se optó por la estructura orgánica de tipo funcional. Dado que la organización funcional rompe con la idea de trabajos fijos, permite generar una organización por objetivos con la necesidad de conseguir metas concretas. 
+
+La organización funcional genera dentro del proyecto mayor autonomía por parte de los integrantes del grupo, donde un grupo distinto de trabajadores (desarrolladores) lleva a cabo cada fase del proyecto conforme el software va evolucionando, aunque los equipos pueden rotar periódicamente sus responsabilidades. Dentro de las ventajas de uso del formato funcional esta que permite una sinergia más alta entre las áreas, hay un control centralizado y permite una documentación más clara.
+
 <img src="https://user-images.githubusercontent.com/12010536/41827752-cecdfa42-77f6-11e8-9c86-7114dcf989aa.png" width="90%"></img> 
-## Estimación
+## Estamación
 _El proceso de estimación en costos y tiempo, se realizo a través de una plantilla donde se establece las horas laborales diarias, en conjunto con los sueldos de cada uno de los cargos del proyecto a desarrollar; y que por medio de una estimación por puntos de función obtenemos la cantidad de horas totales del proyecto con su costo final._
 ```
 Revisar el archivo:
 ```
-**[--> estimaciones.xls](https://github.com/anndresfelipe29/Gestion-Vehicular/blob/master/estimaciones.xls)**
+**[--> estimaciones.xls](Gestion-Vehicular/estimaciones.xls)**
 
 
 
