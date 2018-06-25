@@ -86,6 +86,25 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 * Módulo de ingreso estado del vehículo
   * Estado del vehículo (Ingresado, en mantenimiento, en espera de repuestos, Listo, Cliente no autoriza-no reparado)
 
+## Lista de Tareas
+1. Revisión del estado actual del sistema.
+2. Verificación de la funcionalidad actual.
+3. Generación de información sobre el estado actual.
+4. Análisis de requerimientos para el sistema.
+Adecuación de componentes de inventarios.
+Adecuación de componentes de clientes.
+Adecuación de componentes de vehículos.
+Migración de componentes de inventarios.
+Migración de componentes de clientes.
+Migración de componentes de vehículos.
+Generación de nuevos componentes del área de inventarios.
+Generación de nuevos componentes del área de clientes.
+Generación de nuevos componentes del área de vehiculos.
+Generación de nuevos componentes del área de gestión de usuario.
+Pruebas de componentes adecuados.
+Pruebas de componentes nuevos.
+Puesta en línea del sistema.
+Capacitación al personal del establecimiento.
 
 
 
