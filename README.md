@@ -112,7 +112,7 @@ Para la gestión organizacional de este proyecto se optó por la estructura org�
 La organización funcional genera dentro del proyecto mayor autonomía por parte de los integrantes del grupo, donde un grupo distinto de trabajadores (desarrolladores) lleva a cabo cada fase del proyecto conforme el software va evolucionando, aunque los equipos pueden rotar periódicamente sus responsabilidades. Dentro de las ventajas de uso del formato funcional esta que permite una sinergia más alta entre las áreas, hay un control centralizado y permite una documentación más clara.
 
 <img src="https://user-images.githubusercontent.com/12010536/41827752-cecdfa42-77f6-11e8-9c86-7114dcf989aa.png" width="90%"></img> 
-## Estamación
+## Estimación
 _El proceso de estimación en costos y tiempo, se realizo a través de una plantilla donde se establece las horas laborales diarias, en conjunto con los sueldos de cada uno de los cargos del proyecto a desarrollar; y que por medio de una estimación por puntos de función obtenemos la cantidad de horas totales del proyecto con su costo final._
 ```
 Revisar el archivo:
