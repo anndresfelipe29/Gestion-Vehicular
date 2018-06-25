@@ -91,10 +91,10 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 2. Verificación de la funcionalidad actual.
 3. Generación de información sobre el estado actual.
 4. Análisis de requerimientos para el sistema.
-Adecuación de componentes de inventarios.
-Adecuación de componentes de clientes.
-Adecuación de componentes de vehículos.
-Migración de componentes de inventarios.
+5. Adecuación de componentes de inventarios.
+6. Adecuación de componentes de clientes.
+7. Adecuación de componentes de vehículos.
+8Migración de componentes de inventarios.
 Migración de componentes de clientes.
 Migración de componentes de vehículos.
 Generación de nuevos componentes del área de inventarios.
