@@ -67,7 +67,7 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 
 ## EDP
 * Módulo Administrador
-**Registro usuarios y clientes
+**Registro usuarios y clientes**
 Módulo gestión de información de Cliente
 Datos personales
 Vehículos asociados
