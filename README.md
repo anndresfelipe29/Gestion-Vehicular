@@ -94,17 +94,17 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 5. Adecuación de componentes de inventarios.
 6. Adecuación de componentes de clientes.
 7. Adecuación de componentes de vehículos.
-8Migración de componentes de inventarios.
-Migración de componentes de clientes.
-Migración de componentes de vehículos.
-Generación de nuevos componentes del área de inventarios.
-Generación de nuevos componentes del área de clientes.
-Generación de nuevos componentes del área de vehiculos.
-Generación de nuevos componentes del área de gestión de usuario.
-Pruebas de componentes adecuados.
-Pruebas de componentes nuevos.
-Puesta en línea del sistema.
-Capacitación al personal del establecimiento.
+8. Migración de componentes de inventarios.
+9. Migración de componentes de clientes.
+10. Migración de componentes de vehículos.
+11. Generación de nuevos componentes del área de inventarios.
+12. Generación de nuevos componentes del área de clientes.
+13. Generación de nuevos componentes del área de vehiculos.
+14. Generación de nuevos componentes del área de gestión de usuario.
+15. Pruebas de componentes adecuados.
+16. Pruebas de componentes nuevos.
+17. Puesta en línea del sistema.
+18. Capacitación al personal del establecimiento.
 
 
 
