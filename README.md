@@ -129,4 +129,7 @@ Revisar el archivo:
 
 ![flujograma - page 1 1](https://user-images.githubusercontent.com/30865375/41883591-f622b024-78b4-11e8-926a-09a45adbfdef.png)
 
+## Tabla de riesgos
+
+**[--> Gestion de riesgos.xls](Gestion-Vehicular/tabla-riesgos.xlsx)**
 
