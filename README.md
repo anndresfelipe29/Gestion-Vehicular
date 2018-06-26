@@ -131,5 +131,5 @@ Revisar el archivo:
 
 ## Tabla de riesgos
 
-**[--> Gestion de riesgos.xls](Gestion-Vehicular/tabla-riesgos.xlsx)**
+**[--> Gestion de riesgos](Gestion-Vehicular/tabla-riesgos.xlsx)**
 
