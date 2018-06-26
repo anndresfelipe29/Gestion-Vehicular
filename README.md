@@ -125,5 +125,7 @@ Revisar el archivo:
 ## Flujo de Sistemas o Procesos
 <img src="https://user-images.githubusercontent.com/12010536/41880398-7e8e9f0c-78a3-11e8-934b-bc725f80d4f5.png" width="90%"></img> 
 
+## Flujograma
+
 
 
