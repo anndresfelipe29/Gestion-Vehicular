@@ -131,7 +131,7 @@ _La organización funcional genera dentro del proyecto mayor autonomía por part
 ## Estimación
 _El proceso de estimación en costos y tiempo, se realizo a través de una plantilla donde se establece las horas laborales diarias, en conjunto con los sueldos de cada uno de los cargos del proyecto a desarrollar; y que por medio de una estimación por puntos de función obtenemos la cantidad de horas totales del proyecto con su costo final._
 ```
-Revisar el archivo:
+A continuacion se presenta el documento para una revision más a profundidad:
 ```
 **[--> estimaciones.xls](estimaciones.xls)**
 
@@ -153,6 +153,8 @@ Revisar el archivo:
 ## Tabla de riesgos
 
 ![image](https://user-images.githubusercontent.com/30865375/41950217-a1af09d0-798a-11e8-9617-7dfa1b2664d0.png)
-
-**A continuacion se presenta el documento para una revision más a profundidad [--> Gestion de riesgos](tabla-riesgos.xlsx)**
+```
+A continuacion se presenta el documento para una revision más a profundidad:
+```
+**[--> Gestion de riesgos](tabla-riesgos.xlsx)**
 
