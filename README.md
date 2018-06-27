@@ -137,5 +137,7 @@ Revisar el archivo:
 
 ## Tabla de riesgos
 
-**[--> Gestion de riesgos](tabla-riesgos.xlsx)**
+![image](https://user-images.githubusercontent.com/30865375/41950217-a1af09d0-798a-11e8-9617-7dfa1b2664d0.png)
+
+**A continuacion se presenta el documento para una revision más a profundidad [--> Gestion de riesgos](tabla-riesgos.xlsx)**
 
