@@ -134,9 +134,12 @@ _El proceso de estimación en costos y tiempo, se realizo a través de una plant
 Revisar el archivo:
 ```
 **[--> estimaciones.xls](estimaciones.xls)**
+
+## Cronograma
 <img src="https://user-images.githubusercontent.com/12010536/41971351-b45f8444-79d3-11e8-947b-3bee59caeb2c.jpg" width="90%"></img> 
 <img src="https://user-images.githubusercontent.com/12010536/41971408-eb964506-79d3-11e8-8023-c936324884de.jpg" width="90%"></img> 
 <img src="https://user-images.githubusercontent.com/12010536/41971472-2e33adb8-79d4-11e8-88a7-bcd2136c109a.jpg" width="90%"></img> 
+
 ## RBS
 <img src="https://user-images.githubusercontent.com/12010536/41880225-92acb83a-78a2-11e8-8c11-17bdf2211ea2.png" width="90%"></img> 
 
