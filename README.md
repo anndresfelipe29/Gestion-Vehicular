@@ -55,10 +55,14 @@ _El sistema recibirá la siguiente información para ser parte de las variables 
 * El aplicativo permitira al usuario consultar el valor total, sin embargo no sera encargado de realizar una facturacion legitima
 * El encargado de la reparacion del vehiculo, tendra acceso a los datos del dueño del vehiculo para comunicarse con el en caso de que surja cualquier novedad en el proceso, sin embargo el sistema no generará alarmas correspondientes.
 ## Criterios de Exito
-* El sistema debe permitir la gestión de cuentas de usuario con diferentes roles.
-* La información estará disponible de forma clara para todos los usuarios y actualizada.
-* La arquitectura del sistema debe permitir el crecimiento al ritmo de que lo haga el establecimiento.
-* El sistema garantiza la protección de los datos y asegurara que la información, solo sea accedida por el usuario al que corresponde.
+* sistema debe permitir la gestión de cuentas de usuario con diferentes roles.
+*	La información estará disponible de forma clara para todos los usuarios y actualizada.
+*	La arquitectura del sistema debe permitir el crecimiento al ritmo de que lo haga el establecimiento.
+*	El sistema garantiza la protección de los datos y asegurara que la información, solo sea accedida por el usuario al que corresponde.
+*	La interfaz del sistema debe ser clara e intuitiva para los usuarios que dispongan de ella.
+*	El sistema debe permitir la gestión de los vehículos permitiendo a los operarios actualizar su información conforme es necesario y esta debe ser reflejada para los clientes en simultaneo.
+*	Las búsquedas deben ser ágiles permitiendo el filtrado de información por diferentes variables.
+*	La arquitectura del sistema debe desplegarse en una plataforma web permitiendo el acceso desde cualquier dispositivo a los usuarios siendo compatible con cualquier plataforma.
 
 ## Objetivos
 * Gestionar la información del vehículo que se encuentre en mantenimiento en el taller, permitiendo visualizar el estado en que se encuentra el vehículo desde el momento de ingreso, hasta el momento en que sale del taller, detallando los procedimientos realizados sobre este, como puede ser el caso de reparaciones o  repuestos.
