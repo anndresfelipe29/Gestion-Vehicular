@@ -61,12 +61,10 @@ _El sistema recibirá la siguiente información para ser parte de las variables 
 * Gestionar el inventario de partes y repuestos del taller, cotejando insumos con los implementados en las reparaciones de los distintos vehículos, manejando un historial de proveedores anexo a dichos repuestos.
 
 ### Objetivos especificos
-*Implementar un sistema ambientado a la web, escalable para futuras ampliaciones.
-*Hacer del sistema un entorno estable sobre el cual podrá trabajar el cliente. 
-*Crear un entorno donde los trabajadores puedan ejecutar diversas búsquedas en la base de datos que para obtener información sobre su historial de trabajos realizados
-*Hacer posible un inventario sobre cada vehículo a su ingreso, donde se especifique su estado generar y observaciones sobre el vehículo.
-.
-
+* Implementar un sistema ambientado a la web, escalable para futuras ampliaciones.
+* Hacer del sistema un entorno estable sobre el cual podrá trabajar el cliente. 
+* Crear un entorno donde los trabajadores puedan ejecutar diversas búsquedas en la base de datos que para obtener información sobre su historial de trabajos realizados
+* Hacer posible un inventario sobre cada vehículo a su ingreso, donde se especifique su estado generar y observaciones sobre el vehículo.
 
 ## Alcance
 _Diseño, migración de datos e implementación de sistema de gestión de información vehicular para taller de mantenimiento, que permita la creación de cuentas para usuarios del taller (mecanicos, recepción, despacho) y para clientes, ingreso de datos del cliente, ingreso de datos principales de los vehículos asociados a cada cliente, inventario del vehículo ingresado con observaciones de novedad, módulos de actualización de estado por parte del mecánico encargado, ingreso de repuestos usados y agregados al costo del mantenimiento, ingreso del costo de la mano de obra y acceso a consulta por parte de los clientes en una plataforma web para tener información actualizada del estado en curso de los vehículos._
