@@ -105,20 +105,21 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 2. Verificación de la funcionalidad actual.
 3. Generación de información sobre el estado actual.
 4. Análisis de requerimientos para el sistema.
-5. Adecuación de componentes de inventarios.
-6. Adecuación de componentes de clientes.
-7. Adecuación de componentes de vehículos.
-8. Migración de componentes de inventarios.
-9. Migración de componentes de clientes.
-10. Migración de componentes de vehículos.
-11. Generación de nuevos componentes del área de inventarios.
-12. Generación de nuevos componentes del área de clientes.
-13. Generación de nuevos componentes del área de vehiculos.
-14. Generación de nuevos componentes del área de gestión de usuario.
-15. Pruebas de componentes adecuados.
-16. Pruebas de componentes nuevos.
-17. Puesta en línea del sistema.
-18. Capacitación al personal del establecimiento.
+5. Firma de contrato.
+6. Adecuación de componentes de inventarios.
+7. Adecuación de componentes de clientes.
+8. Adecuación de componentes de vehículos.
+9. Migración de componentes de inventarios.
+10. Migración de componentes de clientes.
+11. Migración de componentes de vehículos.
+12. Generación de nuevos componentes del área de inventarios.
+13. Generación de nuevos componentes del área de clientes.
+14. Generación de nuevos componentes del área de vehiculos.
+15. Generación de nuevos componentes del área de gestión de usuario.
+16. Pruebas de componentes adecuados.
+17. Pruebas de componentes nuevos.
+18. Puesta en línea del sistema.
+19. Capacitación al personal del establecimiento.
 
 ## WBS
 <img src="https://user-images.githubusercontent.com/12010536/41827180-b13bbd3c-77f3-11e8-9e48-52d2c1d6e098.jpg" width="90%"></img> 
