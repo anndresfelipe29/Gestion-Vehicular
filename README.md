@@ -75,25 +75,26 @@ _El sistema recibirá la siguiente información para ser parte de las variables 
 _Diseño, migración de datos e implementación de sistema de gestión de información vehicular para taller de mantenimiento, que permita la creación de cuentas para usuarios del taller (mecanicos, recepción, despacho) y para clientes, ingreso de datos del cliente, ingreso de datos principales de los vehículos asociados a cada cliente, inventario del vehículo ingresado con observaciones de novedad, módulos de actualización de estado por parte del mecánico encargado, ingreso de repuestos usados y agregados al costo del mantenimiento, ingreso del costo de la mano de obra y acceso a consulta por parte de los clientes en una plataforma web para tener información actualizada del estado en curso de los vehículos._
 
 ## EDP
-* Módulo Administrador
-  * Registro usuarios y clientes
-* Módulo gestión de información de Cliente
-  * Datos personales
-  * Vehículos asociados
-* Módulo gestión de información de vehículo
-  * Datos del vehículo (placas, tipo, marca, modelo)
+* Módulo Administrador: El modulo permite gestionar roles, administrar permisos, definir tipos de usuarios en el proyecto y realizar la dirección de la gestion administrativa.
+  * Registro usuarios y clientes: Se crean los perfiles de los de los usuarios que usarán el software, por los cuales se permitirá en ingreso con opciones diferentes dependiendo el rol.
+* Módulo gestión de información de Cliente: Se define la información que cada cliente debe tener como mínimo para tener un registro adecuado en el taller vehicular.
+  * Datos personales: Datos básicos del cliente
+  * Vehículos asociados: Un cliente podrá tener uno o varios vehículos asociados.
+* Módulo gestión de información de vehículo: Se define la información que cada vehículo que ingresa en el taller debe tener.
+  * Datos del vehículo (placas, tipo, marca, modelo): Datos básicos de cada vehículo
   * Kilometraje
   * Daños parte exterior como rayones o abolladura
   * Daños en interiores
   * Inventario de objetos en vehículos
-  * Observaciones
-* Módulo de ingreso consulta usuarios
-  * Estado del vehículo
-  * Repuestos necesarios
-* Módulo Facturación
+  * Observaciones: Novedades con las cuales entra el usuario
+* Módulo de ingreso consulta usuarios: El módulo quela consulta en la base de datos para consultar usuarios dependiendo de parámetros dados como fecha, vehículos, orden de compra, entre otros.
+  * Estado del vehículo: Estado que debe tener el vehículo en en taller, esto de acuerdo al trabajo que se esté realizando
+  * Repuestos necesarios: Los repuestos que se utilizan en el mantenimiento se podrán actualizar para mantener un inventario que garantice una buena gestion de inventarios
+* Módulo Facturación: Generación del documento de pago a través de una orden de servicio
   * Costos (repuestos, mano de obra, impuestos)
-* Módulo de ingreso estado del vehículo
+* Módulo de ingreso estado del vehículo: Los clientes podrán consultar a través de una plataforma web el estado de su vehículo (ingresado, en mantenimiento, en espera, despachado), asi como las ordenes de servicio y los mantenimientos realizados a suvehiculo.
   * Estado del vehículo (Ingresado, en mantenimiento, en espera de repuestos, Listo, Cliente no autoriza-no reparado)
+* Módulo de inventarios: La base de datos debe mantener la información actualizada para determinar la posibilidad en la maximizacion de respuesta a multiples ususarios
 
 ## Lista de Tareas
 1. Revisión del estado actual del sistema.
