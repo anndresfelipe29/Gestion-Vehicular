@@ -48,7 +48,12 @@ _El sistema recibirá la siguiente información para ser parte de las variables 
 * Descripción de la problemática descrita por el usuario para ser tratada.
 * Información del diagnóstico técnico, respuesta a la problemática planteada.
 * Nombre y costo de cada servicio y repuesto suministrado al vehículo.
-
+## Restricciones
+* Los encargados de mantenimiento del establecimiento pueden ser usuarios del establecimiento 
+* Las facturaciones no seran reflejadas en el aplicativo, debido a cuestiones de falta de tiempo para su correcta implementacion.
+* El inventario de el aplicativo, contara unicamente con las funciones basicas, los historicos de precios no se tendran en cuenta, por el contrario solo se tendra en cuenta el valor presente del item.
+* El aplicativo permitira al usuario consultar el valor total, sin embargo no sera encargado de realizar una facturacion legitima
+* El encargado de la reparacion del vehiculo, tendra acceso a los datos del dueño del vehiculo para comunicarse con el en caso de que surja cualquier novedad en el proceso, sin embargo el sistema no generará alarmas correspondientes.
 ## Criterios de Exito
 * El sistema debe permitir la gestión de cuentas de usuario con diferentes roles.
 * La información estará disponible de forma clara para todos los usuarios y actualizada.
