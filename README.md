@@ -3,7 +3,7 @@
 ### Integrantes:
 >- Eduard Augusto Piñeros Lozano - 20142020002
 >- Miguel Angel Vega Alonso - 20142020045
->- Wilmer Ricardo PAchón López - 20142020056
+>- Wilmer Ricardo Pachón López - 20142020056
 >- Andres Felipe Gomez Salinas - 20142020028
 >- Andres Mauricio Hastamorir - 20142020118
 >- Johan Sebastian Guerrero Urrea - 20142020083
@@ -106,20 +106,15 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 3. Generación de información sobre el estado actual.
 4. Análisis de requerimientos para el sistema.
 5. Firma de contrato.
-6. Adecuación de componentes de inventarios.
-7. Adecuación de componentes de clientes.
-8. Adecuación de componentes de vehículos.
-9. Migración de componentes de inventarios.
-10. Migración de componentes de clientes.
-11. Migración de componentes de vehículos.
-12. Generación de nuevos componentes del área de inventarios.
-13. Generación de nuevos componentes del área de clientes.
-14. Generación de nuevos componentes del área de vehiculos.
-15. Generación de nuevos componentes del área de gestión de usuario.
-16. Pruebas de componentes adecuados.
-17. Pruebas de componentes nuevos.
-18. Puesta en línea del sistema.
-19. Capacitación al personal del establecimiento.
+6. Generación de nuevos componentes del área de inventarios.
+7. Generación de nuevos componentes del área de clientes.
+8. Generación de nuevos componentes del área de vehiculos.
+9. Generación de nuevos componentes del área de gestión de usuario.
+10. Generación de nuevos componentes del área de Administración.
+11. Pruebas de componentes nuevos.
+12. Pruebas de integración.
+13. Puesta en línea del sistema.
+14. Capacitación al personal del establecimiento.
 
 ## WBS
 <img src="https://user-images.githubusercontent.com/12010536/41827180-b13bbd3c-77f3-11e8-9e48-52d2c1d6e098.jpg" width="90%"></img> 
