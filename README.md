@@ -5,7 +5,7 @@
 >- Miguel Angel Vega Alonso - 20142020045
 >- Wilmer Ricardo PAchón López - 20142020056
 >- Andres Felipe Gomez Salinas - 20142020028
->- Andres Mauricio Hastamorir - 20142020121
+>- Andres Mauricio Hastamorir - 20142020118
 >- Johan Sebastian Guerrero Urrea - 20142020083
 
 ## Problemática
