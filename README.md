@@ -158,3 +158,7 @@ A continuacion se presenta el documento para una revision más a profundidad:
 ```
 **[--> Gestion de riesgos](tabla-riesgos.xlsx)**
 
+## BPMN
+
+<img src="https://user-images.githubusercontent.com/12010536/42298909-fc421c4a-7fcd-11e8-8e63-0b84390e6fa3.png" width="90%"></img> 
+
