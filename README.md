@@ -141,7 +141,7 @@ Corrección cronograma
 <img src="https://user-images.githubusercontent.com/30865375/42296749-e905c0f0-7fbe-11e8-817a-ff5fe35aa9b8.png" width="90%"></img> 
 
 ## RBS
-<img src="https://user-images.githubusercontent.com/12010536/41880225-92acb83a-78a2-11e8-8c11-17bdf2211ea2.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/12010536/42298740-1a0645f4-7fcd-11e8-898b-3c5bbb2239f8.png" width="90%"></img> 
 
 ## Flujo de Sistemas o Procesos
 <img src="https://user-images.githubusercontent.com/12010536/41880398-7e8e9f0c-78a3-11e8-934b-bc725f80d4f5.png" width="90%"></img> 
