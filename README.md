@@ -136,6 +136,10 @@ A continuacion se presenta el documento para una revision más a profundidad:
 <img src="https://user-images.githubusercontent.com/12010536/41971408-eb964506-79d3-11e8-8023-c936324884de.jpg" width="90%"></img> 
 <img src="https://user-images.githubusercontent.com/12010536/41971472-2e33adb8-79d4-11e8-88a7-bcd2136c109a.jpg" width="90%"></img> 
 
+Corrección cronograma
+<img src="https://user-images.githubusercontent.com/30865375/42296744-dc9c3394-7fbe-11e8-9b5e-6631d3b0f968.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/30865375/42296749-e905c0f0-7fbe-11e8-817a-ff5fe35aa9b8.png" width="90%"></img> 
+
 ## RBS
 <img src="https://user-images.githubusercontent.com/12010536/41880225-92acb83a-78a2-11e8-8c11-17bdf2211ea2.png" width="90%"></img> 
 
