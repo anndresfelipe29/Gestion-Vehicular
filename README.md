@@ -116,7 +116,8 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 15. Capacitación al personal del establecimiento.
 
 ## WBS
-<img src="https://user-images.githubusercontent.com/12010536/41827180-b13bbd3c-77f3-11e8-9e48-52d2c1d6e098.jpg" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/12844600/42397916-58ce8394-812d-11e8-8f3f-d82a3d4bfd2d.png" width="90%"></img> 
+
 ## Organigrama
 _Para la gestión organizacional de este proyecto se optó por la estructura orgánica de tipo funcional. Dado que la organización funcional rompe con la idea de trabajos fijos, permite generar una organización por objetivos con la necesidad de conseguir metas concretas._ 
 
