@@ -109,7 +109,7 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 8. Generación de nuevos componentes del área de vehiculos.
 9. Generación de nuevos componentes del área de gestión de usuario.
 10. Generación de nuevos componentes del área de Administración.
-11.Migración de datos de clientes
+11. Migración de datos de clientes
 12. Pruebas de componentes nuevos.
 13. Pruebas de integración.
 14. Puesta en línea del sistema.
