@@ -59,21 +59,19 @@ _El sistema recibirá la siguiente información para ser parte de las variables 
 *	La información estará disponible de forma clara para todos los usuarios y actualizada.
 *	La arquitectura del sistema debe permitir el crecimiento al ritmo de que lo haga el establecimiento.
 *	El sistema garantiza la protección de los datos y asegurara que la información, solo sea accedida por el usuario al que corresponde.
-*	La interfaz del sistema debe ser clara e intuitiva para los usuarios que dispongan de ella.
 *	El sistema debe permitir la gestión de los vehículos permitiendo a los operarios actualizar su información conforme es necesario y esta debe ser reflejada para los clientes en simultaneo.
 *	Las búsquedas deben ser ágiles permitiendo el filtrado de información por diferentes variables.
 *	La arquitectura del sistema debe desplegarse en una plataforma web permitiendo el acceso desde cualquier dispositivo a los usuarios siendo compatible con cualquier plataforma.
 
-## Objetivos
-* Gestionar la información del vehículo que se encuentre en mantenimiento en el taller, permitiendo visualizar el estado en que se encuentra el vehículo desde el momento de ingreso, hasta el momento en que sale del taller, detallando los procedimientos realizados sobre este, como puede ser el caso de reparaciones o  repuestos.
+## Objetivo General
+* Gestionar la información de clientes y vehículos en un taller de mantenimiento, que permita visualizar el estado en el que se encuentra el vehículo desde el momento de ingreso hasta el momento en que sale del taller, detallando los procedimientos realizados sobre este como reparaciones y/o  repuestos, con el fin de automatizar procesos manuales obsoletos y dar solución a un problema de gestión de información.
+### Objetivos especificos
+* Implementar un sistema en ambiente web escalable para futuras ampliaciones.
+* Diseñar un entorno estable, amigable y funcional sobre el cual podrá trabajar el cliente. 
+* Determinar un entorno donde los trabajadores puedan ejecutar diversas búsquedas en la base de datos que para obtener información sobre su historial de trabajos realizados
+* Implementar un inventario sobre cada vehículo a su ingreso, donde se especifique su estado generar y observaciones sobre el vehículo.
 * Manejar un histórico de clientes con sus respectivos vehículos, donde se resalte todos las mejoras, y partes implementadas en dichos vehículos.
 * Gestionar el inventario de partes y repuestos del taller, cotejando insumos con los implementados en las reparaciones de los distintos vehículos, manejando un historial de proveedores anexo a dichos repuestos.
-
-### Objetivos especificos
-* Implementar un sistema ambientado a la web, escalable para futuras ampliaciones.
-* Hacer del sistema un entorno estable sobre el cual podrá trabajar el cliente. 
-* Crear un entorno donde los trabajadores puedan ejecutar diversas búsquedas en la base de datos que para obtener información sobre su historial de trabajos realizados
-* Hacer posible un inventario sobre cada vehículo a su ingreso, donde se especifique su estado generar y observaciones sobre el vehículo.
 
 ## Alcance
 _Diseño, migración de datos e implementación de sistema de gestión de información vehicular para taller de mantenimiento, que permita la creación de cuentas para usuarios del taller (mecanicos, recepción, despacho) y para clientes, ingreso de datos del cliente, ingreso de datos principales de los vehículos asociados a cada cliente, inventario del vehículo ingresado con observaciones de novedad, módulos de actualización de estado por parte del mecánico encargado, ingreso de repuestos usados y agregados al costo del mantenimiento, ingreso del costo de la mano de obra y acceso a consulta por parte de los clientes en una plataforma web para tener información actualizada del estado en curso de los vehículos._
@@ -111,10 +109,11 @@ _Diseño, migración de datos e implementación de sistema de gestión de inform
 8. Generación de nuevos componentes del área de vehiculos.
 9. Generación de nuevos componentes del área de gestión de usuario.
 10. Generación de nuevos componentes del área de Administración.
-11. Pruebas de componentes nuevos.
-12. Pruebas de integración.
-13. Puesta en línea del sistema.
-14. Capacitación al personal del establecimiento.
+11.Migración de datos de clientes
+12. Pruebas de componentes nuevos.
+13. Pruebas de integración.
+14. Puesta en línea del sistema.
+15. Capacitación al personal del establecimiento.
 
 ## WBS
 <img src="https://user-images.githubusercontent.com/12010536/41827180-b13bbd3c-77f3-11e8-9e48-52d2c1d6e098.jpg" width="90%"></img> 
