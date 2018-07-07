@@ -158,6 +158,11 @@ A continuacion se presenta el documento para una revision más a profundidad:
 ```
 **[--> Gestion de riesgos](tabla-riesgos.xlsx)**
 
-## BPMN
+## Metodología DevOps
+
+### BPMN
 <img src="https://user-images.githubusercontent.com/23342808/42348932-b2bbd716-8070-11e8-80ed-993ae68aa47e.png" width="90%"></img> 
+
+### Organigrama
+<img src="https://user-images.githubusercontent.com/12010536/42411854-323a3448-81c9-11e8-8932-ace1b0ba246d.JPG" width="90%"></img> 
 
