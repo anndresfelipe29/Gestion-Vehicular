@@ -169,6 +169,7 @@ A continuacion se presenta el documento para una revision más a profundidad:
 
 La entrega de esta semana contara con la funcionalidad completa de el modulo de gestión de ingreso estado del vehículos que cuenta con: 	
 * Ingresar y modificar la informacion de los estados de ingresado,en mantenimiento,en espera,listo.
-* Orden de servicio
-* Lista de servicios y partes suministradas al vehículo
+* Orden de servicio.
+* Lista de servicios y partes suministradas al vehículo.
+
 Este modulo contara con la documentación del código, plan de pruebas,ejecución de pruebas, plan de calidad y diseño arquitectural (base de datos y de clases). 
