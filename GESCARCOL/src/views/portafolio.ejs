@@ -1,0 +1,322 @@
+<!Doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>GESCARCOL</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="icon" href="img/header-logo1.png">
+        <!-- Place favicon.ico in the root directory -->
+
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/slicknav.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="css/owl.carousel.min.css">
+		<link rel="stylesheet" href="css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="css/animate.min.css">
+		<link rel="stylesheet" href="css/animate-text.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!-- Ruby CSS -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="css/responsive.css">
+
+		<!-- Color CSS -->
+		<!--<link rel="stylesheet" href="css/color/color7.css">-->
+		<!--<link rel="stylesheet" href="css/color/color1.css">-->
+		<!--<link rel="stylesheet" href="css/color/color2.css">-->
+		<!--<link rel="stylesheet" href="css/color/color3.css">-->
+		<link rel="stylesheet" href="css/color/color4.css">
+		<!--<link rel="stylesheet" href="css/color/color5.css">-->
+		<!--<link rel="stylesheet" href="css/color/color6.css">-->
+		<!--<link rel="stylesheet" href="css/color/color8.css">-->
+		<!--<link rel="stylesheet" href="css/color/color9.css">-->
+
+		<link rel="stylesheet" href="#" id="colors">
+
+    </head>
+    <body>
+
+		<div class="color-plate ">
+			<a class="icon"><i class="fa fa-cog fa-spin"></i></a>
+			<h2>Colores</h2>
+			<div class="color-head">
+				<span class="color1"></span>
+				<span class="color2"></span>
+				<span class="color3"></span>
+				<span class="color4"></span>
+				<span class="color5"></span>
+				<span class="color6"></span>
+				<span class="color7"></span>
+				<span class="color8"></span>
+				<span class="color9"></span>
+			</div>
+		</div>
+
+		<!-- Header Area -->
+		<header id="header" class="header">
+			<!-- Header Inner -->
+			<div class="header-inner">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-sm-2 col-xs-2">
+							<div class="logo">
+								<a href="/"><img src="img/logo1.png" alt="logo1.png"></a>
+							</div>
+						</div>
+						<div class="col-md-9 col-sm-10">
+							<div class="mobile-menu"></div>
+							<nav class="navbar navbar-default">
+								<div class="collapse navbar-collapse">
+									<ul id="nav" class="nav navbar-nav">
+										<li class="current"><a href="/">Inicio</a>
+										</li>
+										<li><a href="#Services">Servicios</a></li>
+										<li><a href="#latest-works">Vehiculo<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+											<ul class="dropdown">
+												<li><a href="/portafolio">Agregar</a></li>
+												<li><a href="/estado">Estado</a></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!--/ End Header Area -->
+
+
+		<!--breadcrumb -->
+		<div class="breadcrumb" data-stellar-background-ratio="0.5">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="breadcrumb-text">
+							<h2>Nuevo Vehículo</h2>
+							<ul>
+								<li><a href="/">Inicio</a> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></li>
+								<li><a href="/portafolio">Agregar</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/ End breadcrumb -->
+
+		<!-- Latest Works Area -->
+		<section id="latest-works" class="latest-works section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="section-title">
+							<h2>Registro de Vehículo</h2>
+							<p>En el siguiente formulario se realiza el registro del vehiculo con el estado de entrega del mismo al taller. </p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<form action="/search" method="post">
+            <fieldset class="form-group">
+            <legend>Cliente</legend>
+            <div class="form-group">
+            <label for="nombre">Documento</label>
+            <div class="input-group">
+            <input type="text" class="form-control" name="cc" id="cc" placeholder="Documento">
+            <span class="input-group-btn">
+            <button type="submit" class="btn btn-default">Buscar</button>
+            </span>
+            </div>
+            </div>
+            </fieldset>
+          </form>
+          <form action="/add" method="post">
+            <div class="form-group">
+						<label for="nombre">Nombre</label>
+						<input type="text" class="form-control" name="nombre" id="nombre" aria-describedby="nombreid" placeholder="Nombre" disabled value="<%= data5.NOMBRE%><%= data5.APELLIDO%>">
+						<small id="nombreid" class="form-text text-muted">Cliente.</small>
+					  </div>
+            <div class="form-group">
+						<label for="tel">Teléfono</label>
+						<input type="text" class="form-control" name="Tel" id="tel" aria-describedby="telid" placeholder="Tel" disabled value="<%= data5.TELEFONO%>">
+						<small id="telid" class="form-text text-muted">Télefono fijo del cliente.</small>
+					  </div>
+            <div class="form-group">
+						<label for="direccion">Dirección</label>
+						<input type="text" class="form-control" name="direccion" id="direccion" aria-describedby="direccionid" placeholder="Dirección" disabled value="<%= data5.DIRECCION%>">
+						<small id="direccionid" class="form-text text-muted">Dirección de residencia.</small>
+					  </div>
+            <div class="form-group">
+						<label for="cel">Celular</label>
+						<input type="text" class="form-control" name="cel" id="cel" aria-describedby="celid" placeholder="Cel" disabled value="<%= data5.CELULAR%>">
+						<small id="celid" class="form-text text-muted">Celular del cliente.</small>
+					  </div>
+          <!--</form>
+          <form>-->
+					  <div class="form-group">
+						<label for="placa">Placa</label>
+						<input type="text" class="form-control" name="placa" id="placa" aria-describedby="placaid" placeholder="Placa">
+						<small id="placaid" class="form-text text-muted">Recuerde que la placa es única.</small>
+					  </div>
+					  <div class="form-group">
+						<label for="marca">Marca</label>
+						<input type="text" class="form-control" name="marca" id="marca" aria-describedby="marcaid" placeholder="Marca">
+						<small id="marcaid" class="form-text text-muted">Marca del vehiculo.</small>
+					  </div>
+					  <div class="form-group">
+						<label for="modelo">Modelo</label>
+						<input type="text" class="form-control" name="modelo" id="modelo" aria-describedby="modeloid" placeholder="Modelo">
+						<small id="modeloid" class="form-text text-muted">Año de matricula del vehiculo.</small>
+					  </div>
+					  <div class="form-group">
+						<label for="color">Color</label>
+						<input type="text" class="form-control" name="color" id="color" aria-describedby="colorid" placeholder="Color">
+						<small id="colorid" class="form-text text-muted">Color visible del vehiculo.</small>
+					  </div>
+					  <div class="form-group">
+						<label for="exampleSelect1">Tipo</label>
+						<select class="form-control" name="tipo" id="tipo">
+              <% if (data3) { %>
+                <% for(var i = 0; i < data3.length; i++) { %>
+    						  <option><%= data3[i].ID_TIPO_VEH%>.<%= data3[i].NOMBRE_TIPO_VEH %></option>
+                <% } %>
+              <% } %>
+						</select>
+					  </div>
+					  <div class="form-group">
+						<label for="color">Kilometros</label>
+						<input type="text" class="form-control" name="kms" id="kms" aria-describedby="kmsid" placeholder="Kms">
+						<small id="kmsid" class="form-text text-muted">Kilometros registrados por el vehiculo.</small>
+					  </div>
+					  <div class="form-group">
+						<label for="combustible">Tipo de Combustible</label>
+						<select class="form-control" name="combustible" id="combustible">
+              <% if (data4) { %>
+                <% for(var i = 0; i < data4.length; i++) { %>
+    						  <option><%= data4[i].ID_COMBUSTIBLE %>.<%= data4[i].NOMBRE_COMBU %></option>
+                <% } %>
+              <% } %>
+						</select>
+					  </div>
+					  <!--<fieldset class="form-group">
+						<legend>Items Vehículo</legend>
+            <% if (data1) { %>
+              <% for(var i = 0; i < data1.length; i++) { %>
+    						<div class="form-check">
+    						  <label class="form-check-label">
+    							<input type="checkbox" class="form-check-input" name="item<%= data1[i].ID_ITEM %>" id="item<%= data1[i].ID_ITEM %>" value="<%= data1[i].ID_ITEM %>">
+    							<%= data1[i].NOMBRE_ITEM %>
+    						  </label>
+    						</div>
+              <% } %>
+            <% } %>
+          </fieldset>-->
+            <div class="form-group">
+						<label for="combustible">Items Vehículo</label>
+						<select multiple class="form-control" name="item" id="item">
+              <% if (data1) { %>
+                <% for(var i = 0; i < data1.length; i++) { %>
+    						  <option><%= data1[i].ID_ITEM %>.<%= data1[i].NOMBRE_ITEM %></option>
+                <% } %>
+              <% } %>
+						</select>
+					  </div>
+            <div class="form-group">
+						<label for="combustible">Luces Vehículo</label>
+						<select multiple class="form-control" name="luz" id="luz">
+              <% if (data2) { %>
+                <% for(var i = 0; i < data2.length; i++) { %>
+    						  <option><%= data2[i].ID_LUZ_INDICADOR %>.<%= data2[i].NOMBRE_LUZ %></option>
+                <% } %>
+              <% } %>
+						</select>
+					  </div>
+            <!--<fieldset class="form-group">
+						<legend>Luces Vehículo</legend>
+            <% if (data2) { %>
+              <% for(var i = 0; i < data2.length; i++) { %>
+    						<div class="form-check">
+    						  <label class="form-check-label">
+    							<input type="checkbox" class="form-check-input" name="luz<%= data2[i].ID_LUZ_INDICADOR %>" id="luz<%= data2[i].ID_LUZ_INDICADOR %>" value="<%= data2[i].ID_LUZ_INDICADOR %>">
+    							<%= data2[i].NOMBRE_LUZ %>
+    						  </label>
+    						</div>
+              <% } %>
+            <% } %>
+          </fieldset>-->
+            <div class="form-group">
+						<label for="observación">Observación</label>
+						<textarea class="form-control" name="observacion" id="observacion" rows="3"></textarea>
+					  </div>
+					  <button type="submit" class="btn btn-primary">Agregar</button>
+					</form>
+				</div>
+			</div>
+		</section>
+		<!--/ End Works Area -->
+		<!-- Footer Area -->
+		<footer id="footer" class="footer section">
+			<!-- Footer Top -->
+			<div class="footer-top">
+				<div class="container">
+					<div class="row">
+
+					</div>
+				</div>
+			</div>
+			<!--/ End Footer Top -->
+
+			<!-- Copyright -->
+			<div class="copyright">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6 col-xs-12">
+							<div class="copyright-content">
+								<p>Copyright 2018 | Distributed by <a href="https://www.facebook.com/eduard.piineroz" target="_blank">Eduard Piñeros</a></p>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-12">
+							<ul class="social">
+								<li><a href="https://www.facebook.com/Clutch-de-Colombia-1204201732927049/timeline/?ref=hl"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://twitter.com/ClutchRedes"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="https://plus.google.com/u/0/116616523728124825520"><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--/ End Copyright -->
+		</footer>
+		<!--/ End Footer Area -->
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+		<script src="js/colors.js"></script>
+        <script src="js/jquery.nav.js"></script>
+        <script src="js/jquery.scrollUp.min.js"></script>
+        <script src="js/jquery.slicknav.min.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+		<script src="js/isotope.pkgd.min.js"></script>
+		<script src="js/wow.min.js"></script>
+		<script src="js/jquery.stellar.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/animate-text.js"></script>
+		<script src="js/particles.min.js"></script>
+		<script src="js/particle-code.js"></script>
+		<script src="js/jquery.counterup.min.js"></script>
+		<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyC0RqLa90WDfoJedoE3Z_Gy7a7o8PCL2jw"></script>
+        <script type="text/javascript" src="js/gmaps.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
