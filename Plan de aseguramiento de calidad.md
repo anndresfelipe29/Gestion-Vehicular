@@ -161,7 +161,7 @@ Como salida se obtiene el Informe de RTF.
 **Pruebas**
 Dentro de esta evaluación se aplicarán las pruebas de integración y unitarias además de inspecciones y recorridos (Walkthroughs  )
 
-### Pruebas
+# Pruebas
 
 Las actividades de pruebas que se realizarán para el proyecto son:
 
@@ -173,6 +173,99 @@ Las actividades de pruebas que se realizarán para el proyecto son:
 | Plan de desarrollo de software             | Normas a seguir en el desarrollo de software                                                |
 | Plan de metricas                           | "Estandares y convenciones acerca de quien,cuando,como y donde se levantaran las metricas " |
 | Plan de administracion de la configuracion | Estandares de procesos relacionados a la administracion de la configuracion                 |
+
+### Casos de prueba
+ Los casos de pruebas se encuentran en un archivo adjunto en:
+
+# Herramientas tecnicas y metodologias
+## Orientación web
+
+El sistema contempla una serie de funciones que para su utilidad deben ser ejecutadas en un entorno cliente servidor de tres capas acompañado de una base de datos en MySQL, por lo que se hará uso de lo siguiente:
+
+## Lenguajes de desarrollo:
+
+* Html
+* Css
+* Bootstrap
+* Express de NodeJs
+* Ejs 
+* JavaScript
+* NodeJs 
+* MySQL
+* Uml
+## Herramientas de desarrollo:
+* Power designer
+* NotePad
+* Atom
+* Xampp
+
+## Herramientas de soporte:
+
+* GitHub
+* Office 
+## Arquitectura de ejecución:
+* Modelo: Cliente-servidor (3 capas)
+* Acceso: Internet
+
+# Control de versiones
+
+Para el control de versiones de código donde hospedar toda la información por medio de un historial de versiones se usara un repositorio del proyecto en github.  
+El control de medios será establecido en github, donde se almacenarán los datos de manera que se obtendrá acceso a diferentes versiones del código.
+
+
+## Control de proveedores
+
+Para asegurar la estabilidad del sistema los productos de software de los desarrolladores y de los proveedores externos trabajan sobre versiones fijas fijadas en este documento. Las versiones a usar son:
+
+* Xampp: Versión 7.2.6
+* NodeJs: Versión 10.6.0
+* MySQL 5.0
+* Html: versión 5
+* Css: versión 3
+* Bootstrap: versión 4.1.1
+
+
+# Capacitación y entrenamiento
+En esta sección se definen los objetivos y las necesidades de capacitación en relación con el proceso de SQA y describe las actividades que permiten resolver dichas necesidades en el proceso de la implementación del software GESCARCOL, con el propósito de guiar las labores del responsable del soporte de SQA
+
+La actividad de capacitación es realizada para alcanzar los siguientes objetivos organizacionales:
+
+* Producir software de calidad eficientemente 
+* Introducir rápidamente las prácticas, metodologías y tecnologías, relacionadas con el proceso de SQA, en el proceso de desarrollo
+* Promover el mejoramiento continuo en el proceso de desarrollo 
+
+Objetivos de SQA en cada rol:
+
+## Jefes de proyectos
+ 
+* Difundir y apoyar la implementación de la política para SQA.
+* Comprender los conceptos fundamentales asociados a las prácticas de  SQA.
+* Planificar las actividades relacionadas con las prácticas de SQA e incluirlas en el plan de proyecto.
+* Establecer y procurar los recursos necesarios para las actividades de SQA.
+* Establecer los mecanismos de control y seguimiento para las actividades de SQA.
+* Gestionar y apoyar las actividades de SQA.
+* Guiar al equipo desarrollador en la implementación adecuada de las prácticas, metodologías y tecnologías asociadas al proceso de SQA.
+ 
+ ## Desarrolladores
+ 
+* Comprender la importancia del proceso de SQA.
+* Comprender los conceptos fundamentales asociados a las prácticas de  SQA.
+* Participar y apoyar las actividades de SQA.
+* Participar en la implementación de mejoras a las actividades de SQA.
+ 
+## Grupo de SQA
+ 
+* Difundir la importancia y los beneficios de SQA.
+* Conocer con detenimiento todas las áreas de prácticas relacionadas con SQA.
+* Comprender el proceso de desarrollo.
+* Definir los recursos y la infraestructura apropiada para la implementación del proceso de SQA.
+* Apoyar y dirigir la definición y el mejoramiento del proceso y las prácticas de SQA.
+* Documentar el proceso de SQA.
+* Dirigir el proceso de implantación de las prácticas de SQA.
+* Respaldar el soporte de las actividades de SQA, especialmente aquellas relacionadas con la capacitación.
+* Asegurar la capacitación del personal del grupo de SQA.
+
+A largo plazo, la  prioridad principal es que todos los miembros de la institución hayan completado su capacitación en relación con las habilidades definidas en los objetivos específicos y, por ende, que cada uno de ellos pueda desempeñar las responsabilidades asociadas a SQA eficientemente.
 
 
 
